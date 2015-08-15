@@ -1,4 +1,4 @@
-# ey 中文名伊娃 [![Build Status](https://travis-ci.org/ibrother/jekyll-theme-ey.png)](https://travis-ci.org/ibrother/jekyll-theme-ey)
+# ey 中文名伊娃
 
 > fuck me, fuck my dog.
 
